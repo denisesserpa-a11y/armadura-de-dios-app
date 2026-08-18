@@ -1,0 +1,1827 @@
+[
+{
+"dia": 1,
+"referencia": "Génesis 1-4",
+"capitulos": 4
+},
+{
+"dia": 2,
+"referencia": "Génesis 5-7",
+"capitulos": 3
+},
+{
+"dia": 3,
+"referencia": "Génesis 8-10",
+"capitulos": 3
+},
+{
+"dia": 4,
+"referencia": "Génesis 11-13",
+"capitulos": 3
+},
+{
+"dia": 5,
+"referencia": "Génesis 14-17",
+"capitulos": 4
+},
+{
+"dia": 6,
+"referencia": "Génesis 18-20",
+"capitulos": 3
+},
+{
+"dia": 7,
+"referencia": "Génesis 21-23",
+"capitulos": 3
+},
+{
+"dia": 8,
+"referencia": "Génesis 24-26",
+"capitulos": 3
+},
+{
+"dia": 9,
+"referencia": "Génesis 27-30",
+"capitulos": 4
+},
+{
+"dia": 10,
+"referencia": "Génesis 31-33",
+"capitulos": 3
+},
+{
+"dia": 11,
+"referencia": "Génesis 34-36",
+"capitulos": 3
+},
+{
+"dia": 12,
+"referencia": "Génesis 37-39",
+"capitulos": 3
+},
+{
+"dia": 13,
+"referencia": "Génesis 40-43",
+"capitulos": 4
+},
+{
+"dia": 14,
+"referencia": "Génesis 44-46",
+"capitulos": 3
+},
+{
+"dia": 15,
+"referencia": "Génesis 47-49",
+"capitulos": 3
+},
+{
+"dia": 16,
+"referencia": "Génesis 50; Éxodo 1-2",
+"capitulos": 3
+},
+{
+"dia": 17,
+"referencia": "Éxodo 3-6",
+"capitulos": 4
+},
+{
+"dia": 18,
+"referencia": "Éxodo 7-9",
+"capitulos": 3
+},
+{
+"dia": 19,
+"referencia": "Éxodo 10-12",
+"capitulos": 3
+},
+{
+"dia": 20,
+"referencia": "Éxodo 13-16",
+"capitulos": 4
+},
+{
+"dia": 21,
+"referencia": "Éxodo 17-19",
+"capitulos": 3
+},
+{
+"dia": 22,
+"referencia": "Éxodo 20-22",
+"capitulos": 3
+},
+{
+"dia": 23,
+"referencia": "Éxodo 23-25",
+"capitulos": 3
+},
+{
+"dia": 24,
+"referencia": "Éxodo 26-29",
+"capitulos": 4
+},
+{
+"dia": 25,
+"referencia": "Éxodo 30-32",
+"capitulos": 3
+},
+{
+"dia": 26,
+"referencia": "Éxodo 33-35",
+"capitulos": 3
+},
+{
+"dia": 27,
+"referencia": "Éxodo 36-38",
+"capitulos": 3
+},
+{
+"dia": 28,
+"referencia": "Éxodo 39-40; Levítico 1-2",
+"capitulos": 4
+},
+{
+"dia": 29,
+"referencia": "Levítico 3-5",
+"capitulos": 3
+},
+{
+"dia": 30,
+"referencia": "Levítico 6-8",
+"capitulos": 3
+},
+{
+"dia": 31,
+"referencia": "Levítico 9-11",
+"capitulos": 3
+},
+{
+"dia": 32,
+"referencia": "Levítico 12-15",
+"capitulos": 4
+},
+{
+"dia": 33,
+"referencia": "Levítico 16-18",
+"capitulos": 3
+},
+{
+"dia": 34,
+"referencia": "Levítico 19-21",
+"capitulos": 3
+},
+{
+"dia": 35,
+"referencia": "Levítico 22-24",
+"capitulos": 3
+},
+{
+"dia": 36,
+"referencia": "Levítico 25-27; Números 1",
+"capitulos": 4
+},
+{
+"dia": 37,
+"referencia": "Números 2-4",
+"capitulos": 3
+},
+{
+"dia": 38,
+"referencia": "Números 5-7",
+"capitulos": 3
+},
+{
+"dia": 39,
+"referencia": "Números 8-10",
+"capitulos": 3
+},
+{
+"dia": 40,
+"referencia": "Números 11-14",
+"capitulos": 4
+},
+{
+"dia": 41,
+"referencia": "Números 15-17",
+"capitulos": 3
+},
+{
+"dia": 42,
+"referencia": "Números 18-20",
+"capitulos": 3
+},
+{
+"dia": 43,
+"referencia": "Números 21-23",
+"capitulos": 3
+},
+{
+"dia": 44,
+"referencia": "Números 24-27",
+"capitulos": 4
+},
+{
+"dia": 45,
+"referencia": "Números 28-30",
+"capitulos": 3
+},
+{
+"dia": 46,
+"referencia": "Números 31-33",
+"capitulos": 3
+},
+{
+"dia": 47,
+"referencia": "Números 34-36",
+"capitulos": 3
+},
+{
+"dia": 48,
+"referencia": "Deuteronomio 1-4",
+"capitulos": 4
+},
+{
+"dia": 49,
+"referencia": "Deuteronomio 5-7",
+"capitulos": 3
+},
+{
+"dia": 50,
+"referencia": "Deuteronomio 8-10",
+"capitulos": 3
+},
+{
+"dia": 51,
+"referencia": "Deuteronomio 11-14",
+"capitulos": 4
+},
+{
+"dia": 52,
+"referencia": "Deuteronomio 15-17",
+"capitulos": 3
+},
+{
+"dia": 53,
+"referencia": "Deuteronomio 18-20",
+"capitulos": 3
+},
+{
+"dia": 54,
+"referencia": "Deuteronomio 21-23",
+"capitulos": 3
+},
+{
+"dia": 55,
+"referencia": "Deuteronomio 24-27",
+"capitulos": 4
+},
+{
+"dia": 56,
+"referencia": "Deuteronomio 28-30",
+"capitulos": 3
+},
+{
+"dia": 57,
+"referencia": "Deuteronomio 31-33",
+"capitulos": 3
+},
+{
+"dia": 58,
+"referencia": "Deuteronomio 34; Josué 1-2",
+"capitulos": 3
+},
+{
+"dia": 59,
+"referencia": "Josué 3-6",
+"capitulos": 4
+},
+{
+"dia": 60,
+"referencia": "Josué 7-9",
+"capitulos": 3
+},
+{
+"dia": 61,
+"referencia": "Josué 10-12",
+"capitulos": 3
+},
+{
+"dia": 62,
+"referencia": "Josué 13-15",
+"capitulos": 3
+},
+{
+"dia": 63,
+"referencia": "Josué 16-19",
+"capitulos": 4
+},
+{
+"dia": 64,
+"referencia": "Josué 20-22",
+"capitulos": 3
+},
+{
+"dia": 65,
+"referencia": "Josué 23-24; Jueces 1",
+"capitulos": 3
+},
+{
+"dia": 66,
+"referencia": "Jueces 2-4",
+"capitulos": 3
+},
+{
+"dia": 67,
+"referencia": "Jueces 5-8",
+"capitulos": 4
+},
+{
+"dia": 68,
+"referencia": "Jueces 9-11",
+"capitulos": 3
+},
+{
+"dia": 69,
+"referencia": "Jueces 12-14",
+"capitulos": 3
+},
+{
+"dia": 70,
+"referencia": "Jueces 15-17",
+"capitulos": 3
+},
+{
+"dia": 71,
+"referencia": "Jueces 18-21",
+"capitulos": 4
+},
+{
+"dia": 72,
+"referencia": "Rut 1-3",
+"capitulos": 3
+},
+{
+"dia": 73,
+"referencia": "Rut 4; 1 Samuel 1-2",
+"capitulos": 3
+},
+{
+"dia": 74,
+"referencia": "1 Samuel 3-5",
+"capitulos": 3
+},
+{
+"dia": 75,
+"referencia": "1 Samuel 6-9",
+"capitulos": 4
+},
+{
+"dia": 76,
+"referencia": "1 Samuel 10-12",
+"capitulos": 3
+},
+{
+"dia": 77,
+"referencia": "1 Samuel 13-15",
+"capitulos": 3
+},
+{
+"dia": 78,
+"referencia": "1 Samuel 16-18",
+"capitulos": 3
+},
+{
+"dia": 79,
+"referencia": "1 Samuel 19-22",
+"capitulos": 4
+},
+{
+"dia": 80,
+"referencia": "1 Samuel 23-25",
+"capitulos": 3
+},
+{
+"dia": 81,
+"referencia": "1 Samuel 26-28",
+"capitulos": 3
+},
+{
+"dia": 82,
+"referencia": "1 Samuel 29-31",
+"capitulos": 3
+},
+{
+"dia": 83,
+"referencia": "2 Samuel 1-4",
+"capitulos": 4
+},
+{
+"dia": 84,
+"referencia": "2 Samuel 5-7",
+"capitulos": 3
+},
+{
+"dia": 85,
+"referencia": "2 Samuel 8-10",
+"capitulos": 3
+},
+{
+"dia": 86,
+"referencia": "2 Samuel 11-14",
+"capitulos": 4
+},
+{
+"dia": 87,
+"referencia": "2 Samuel 15-17",
+"capitulos": 3
+},
+{
+"dia": 88,
+"referencia": "2 Samuel 18-20",
+"capitulos": 3
+},
+{
+"dia": 89,
+"referencia": "2 Samuel 21-23",
+"capitulos": 3
+},
+{
+"dia": 90,
+"referencia": "2 Samuel 24; 1 Reyes 1-3",
+"capitulos": 4
+},
+{
+"dia": 91,
+"referencia": "1 Reyes 4-6",
+"capitulos": 3
+},
+{
+"dia": 92,
+"referencia": "1 Reyes 7-9",
+"capitulos": 3
+},
+{
+"dia": 93,
+"referencia": "1 Reyes 10-12",
+"capitulos": 3
+},
+{
+"dia": 94,
+"referencia": "1 Reyes 13-16",
+"capitulos": 4
+},
+{
+"dia": 95,
+"referencia": "1 Reyes 17-19",
+"capitulos": 3
+},
+{
+"dia": 96,
+"referencia": "1 Reyes 20-22",
+"capitulos": 3
+},
+{
+"dia": 97,
+"referencia": "2 Reyes 1-3",
+"capitulos": 3
+},
+{
+"dia": 98,
+"referencia": "2 Reyes 4-7",
+"capitulos": 4
+},
+{
+"dia": 99,
+"referencia": "2 Reyes 8-10",
+"capitulos": 3
+},
+{
+"dia": 100,
+"referencia": "2 Reyes 11-13",
+"capitulos": 3
+},
+{
+"dia": 101,
+"referencia": "2 Reyes 14-16",
+"capitulos": 3
+},
+{
+"dia": 102,
+"referencia": "2 Reyes 17-20",
+"capitulos": 4
+},
+{
+"dia": 103,
+"referencia": "2 Reyes 21-23",
+"capitulos": 3
+},
+{
+"dia": 104,
+"referencia": "2 Reyes 24-25; 1 Crónicas 1",
+"capitulos": 3
+},
+{
+"dia": 105,
+"referencia": "1 Crónicas 2-4",
+"capitulos": 3
+},
+{
+"dia": 106,
+"referencia": "1 Crónicas 5-8",
+"capitulos": 4
+},
+{
+"dia": 107,
+"referencia": "1 Crónicas 9-11",
+"capitulos": 3
+},
+{
+"dia": 108,
+"referencia": "1 Crónicas 12-14",
+"capitulos": 3
+},
+{
+"dia": 109,
+"referencia": "1 Crónicas 15-17",
+"capitulos": 3
+},
+{
+"dia": 110,
+"referencia": "1 Crónicas 18-21",
+"capitulos": 4
+},
+{
+"dia": 111,
+"referencia": "1 Crónicas 22-24",
+"capitulos": 3
+},
+{
+"dia": 112,
+"referencia": "1 Crónicas 25-27",
+"capitulos": 3
+},
+{
+"dia": 113,
+"referencia": "1 Crónicas 28-29; 2 Crónicas 1",
+"capitulos": 3
+},
+{
+"dia": 114,
+"referencia": "2 Crónicas 2-5",
+"capitulos": 4
+},
+{
+"dia": 115,
+"referencia": "2 Crónicas 6-8",
+"capitulos": 3
+},
+{
+"dia": 116,
+"referencia": "2 Crónicas 9-11",
+"capitulos": 3
+},
+{
+"dia": 117,
+"referencia": "2 Crónicas 12-15",
+"capitulos": 4
+},
+{
+"dia": 118,
+"referencia": "2 Crónicas 16-18",
+"capitulos": 3
+},
+{
+"dia": 119,
+"referencia": "2 Crónicas 19-21",
+"capitulos": 3
+},
+{
+"dia": 120,
+"referencia": "2 Crónicas 22-24",
+"capitulos": 3
+},
+{
+"dia": 121,
+"referencia": "2 Crónicas 25-28",
+"capitulos": 4
+},
+{
+"dia": 122,
+"referencia": "2 Crónicas 29-31",
+"capitulos": 3
+},
+{
+"dia": 123,
+"referencia": "2 Crónicas 32-34",
+"capitulos": 3
+},
+{
+"dia": 124,
+"referencia": "2 Crónicas 35-36; Esdras 1",
+"capitulos": 3
+},
+{
+"dia": 125,
+"referencia": "Esdras 2-5",
+"capitulos": 4
+},
+{
+"dia": 126,
+"referencia": "Esdras 6-8",
+"capitulos": 3
+},
+{
+"dia": 127,
+"referencia": "Esdras 9-10; Nehemías 1",
+"capitulos": 3
+},
+{
+"dia": 128,
+"referencia": "Nehemías 2-4",
+"capitulos": 3
+},
+{
+"dia": 129,
+"referencia": "Nehemías 5-8",
+"capitulos": 4
+},
+{
+"dia": 130,
+"referencia": "Nehemías 9-11",
+"capitulos": 3
+},
+{
+"dia": 131,
+"referencia": "Nehemías 12-13; Ester 1",
+"capitulos": 3
+},
+{
+"dia": 132,
+"referencia": "Ester 2-4",
+"capitulos": 3
+},
+{
+"dia": 133,
+"referencia": "Ester 5-8",
+"capitulos": 4
+},
+{
+"dia": 134,
+"referencia": "Ester 9-10; Job 1",
+"capitulos": 3
+},
+{
+"dia": 135,
+"referencia": "Job 2-4",
+"capitulos": 3
+},
+{
+"dia": 136,
+"referencia": "Job 5-7",
+"capitulos": 3
+},
+{
+"dia": 137,
+"referencia": "Job 8-11",
+"capitulos": 4
+},
+{
+"dia": 138,
+"referencia": "Job 12-14",
+"capitulos": 3
+},
+{
+"dia": 139,
+"referencia": "Job 15-17",
+"capitulos": 3
+},
+{
+"dia": 140,
+"referencia": "Job 18-20",
+"capitulos": 3
+},
+{
+"dia": 141,
+"referencia": "Job 21-24",
+"capitulos": 4
+},
+{
+"dia": 142,
+"referencia": "Job 25-27",
+"capitulos": 3
+},
+{
+"dia": 143,
+"referencia": "Job 28-30",
+"capitulos": 3
+},
+{
+"dia": 144,
+"referencia": "Job 31-33",
+"capitulos": 3
+},
+{
+"dia": 145,
+"referencia": "Job 34-37",
+"capitulos": 4
+},
+{
+"dia": 146,
+"referencia": "Job 38-40",
+"capitulos": 3
+},
+{
+"dia": 147,
+"referencia": "Job 41-42; Salmos 1",
+"capitulos": 3
+},
+{
+"dia": 148,
+"referencia": "Salmos 2-4",
+"capitulos": 3
+},
+{
+"dia": 149,
+"referencia": "Salmos 5-8",
+"capitulos": 4
+},
+{
+"dia": 150,
+"referencia": "Salmos 9-11",
+"capitulos": 3
+},
+{
+"dia": 151,
+"referencia": "Salmos 12-14",
+"capitulos": 3
+},
+{
+"dia": 152,
+"referencia": "Salmos 15-18",
+"capitulos": 4
+},
+{
+"dia": 153,
+"referencia": "Salmos 19-21",
+"capitulos": 3
+},
+{
+"dia": 154,
+"referencia": "Salmos 22-24",
+"capitulos": 3
+},
+{
+"dia": 155,
+"referencia": "Salmos 25-27",
+"capitulos": 3
+},
+{
+"dia": 156,
+"referencia": "Salmos 28-31",
+"capitulos": 4
+},
+{
+"dia": 157,
+"referencia": "Salmos 32-34",
+"capitulos": 3
+},
+{
+"dia": 158,
+"referencia": "Salmos 35-37",
+"capitulos": 3
+},
+{
+"dia": 159,
+"referencia": "Salmos 38-40",
+"capitulos": 3
+},
+{
+"dia": 160,
+"referencia": "Salmos 41-44",
+"capitulos": 4
+},
+{
+"dia": 161,
+"referencia": "Salmos 45-47",
+"capitulos": 3
+},
+{
+"dia": 162,
+"referencia": "Salmos 48-50",
+"capitulos": 3
+},
+{
+"dia": 163,
+"referencia": "Salmos 51-53",
+"capitulos": 3
+},
+{
+"dia": 164,
+"referencia": "Salmos 54-57",
+"capitulos": 4
+},
+{
+"dia": 165,
+"referencia": "Salmos 58-60",
+"capitulos": 3
+},
+{
+"dia": 166,
+"referencia": "Salmos 61-63",
+"capitulos": 3
+},
+{
+"dia": 167,
+"referencia": "Salmos 64-66",
+"capitulos": 3
+},
+{
+"dia": 168,
+"referencia": "Salmos 67-70",
+"capitulos": 4
+},
+{
+"dia": 169,
+"referencia": "Salmos 71-73",
+"capitulos": 3
+},
+{
+"dia": 170,
+"referencia": "Salmos 74-76",
+"capitulos": 3
+},
+{
+"dia": 171,
+"referencia": "Salmos 77-79",
+"capitulos": 3
+},
+{
+"dia": 172,
+"referencia": "Salmos 80-83",
+"capitulos": 4
+},
+{
+"dia": 173,
+"referencia": "Salmos 84-86",
+"capitulos": 3
+},
+{
+"dia": 174,
+"referencia": "Salmos 87-89",
+"capitulos": 3
+},
+{
+"dia": 175,
+"referencia": "Salmos 90-92",
+"capitulos": 3
+},
+{
+"dia": 176,
+"referencia": "Salmos 93-96",
+"capitulos": 4
+},
+{
+"dia": 177,
+"referencia": "Salmos 97-99",
+"capitulos": 3
+},
+{
+"dia": 178,
+"referencia": "Salmos 100-102",
+"capitulos": 3
+},
+{
+"dia": 179,
+"referencia": "Salmos 103-105",
+"capitulos": 3
+},
+{
+"dia": 180,
+"referencia": "Salmos 106-109",
+"capitulos": 4
+},
+{
+"dia": 181,
+"referencia": "Salmos 110-112",
+"capitulos": 3
+},
+{
+"dia": 182,
+"referencia": "Salmos 113-115",
+"capitulos": 3
+},
+{
+"dia": 183,
+"referencia": "Salmos 116-119",
+"capitulos": 4
+},
+{
+"dia": 184,
+"referencia": "Salmos 120-122",
+"capitulos": 3
+},
+{
+"dia": 185,
+"referencia": "Salmos 123-125",
+"capitulos": 3
+},
+{
+"dia": 186,
+"referencia": "Salmos 126-128",
+"capitulos": 3
+},
+{
+"dia": 187,
+"referencia": "Salmos 129-132",
+"capitulos": 4
+},
+{
+"dia": 188,
+"referencia": "Salmos 133-135",
+"capitulos": 3
+},
+{
+"dia": 189,
+"referencia": "Salmos 136-138",
+"capitulos": 3
+},
+{
+"dia": 190,
+"referencia": "Salmos 139-141",
+"capitulos": 3
+},
+{
+"dia": 191,
+"referencia": "Salmos 142-145",
+"capitulos": 4
+},
+{
+"dia": 192,
+"referencia": "Salmos 146-148",
+"capitulos": 3
+},
+{
+"dia": 193,
+"referencia": "Salmos 149-150; Proverbios 1",
+"capitulos": 3
+},
+{
+"dia": 194,
+"referencia": "Proverbios 2-4",
+"capitulos": 3
+},
+{
+"dia": 195,
+"referencia": "Proverbios 5-8",
+"capitulos": 4
+},
+{
+"dia": 196,
+"referencia": "Proverbios 9-11",
+"capitulos": 3
+},
+{
+"dia": 197,
+"referencia": "Proverbios 12-14",
+"capitulos": 3
+},
+{
+"dia": 198,
+"referencia": "Proverbios 15-17",
+"capitulos": 3
+},
+{
+"dia": 199,
+"referencia": "Proverbios 18-21",
+"capitulos": 4
+},
+{
+"dia": 200,
+"referencia": "Proverbios 22-24",
+"capitulos": 3
+},
+{
+"dia": 201,
+"referencia": "Proverbios 25-27",
+"capitulos": 3
+},
+{
+"dia": 202,
+"referencia": "Proverbios 28-30",
+"capitulos": 3
+},
+{
+"dia": 203,
+"referencia": "Proverbios 31; Eclesiastés 1-3",
+"capitulos": 4
+},
+{
+"dia": 204,
+"referencia": "Eclesiastés 4-6",
+"capitulos": 3
+},
+{
+"dia": 205,
+"referencia": "Eclesiastés 7-9",
+"capitulos": 3
+},
+{
+"dia": 206,
+"referencia": "Eclesiastés 10-12",
+"capitulos": 3
+},
+{
+"dia": 207,
+"referencia": "Cantares 1-4",
+"capitulos": 4
+},
+{
+"dia": 208,
+"referencia": "Cantares 5-7",
+"capitulos": 3
+},
+{
+"dia": 209,
+"referencia": "Cantares 8; Isaías 1-2",
+"capitulos": 3
+},
+{
+"dia": 210,
+"referencia": "Isaías 3-5",
+"capitulos": 3
+},
+{
+"dia": 211,
+"referencia": "Isaías 6-9",
+"capitulos": 4
+},
+{
+"dia": 212,
+"referencia": "Isaías 10-12",
+"capitulos": 3
+},
+{
+"dia": 213,
+"referencia": "Isaías 13-15",
+"capitulos": 3
+},
+{
+"dia": 214,
+"referencia": "Isaías 16-18",
+"capitulos": 3
+},
+{
+"dia": 215,
+"referencia": "Isaías 19-22",
+"capitulos": 4
+},
+{
+"dia": 216,
+"referencia": "Isaías 23-25",
+"capitulos": 3
+},
+{
+"dia": 217,
+"referencia": "Isaías 26-28",
+"capitulos": 3
+},
+{
+"dia": 218,
+"referencia": "Isaías 29-32",
+"capitulos": 4
+},
+{
+"dia": 219,
+"referencia": "Isaías 33-35",
+"capitulos": 3
+},
+{
+"dia": 220,
+"referencia": "Isaías 36-38",
+"capitulos": 3
+},
+{
+"dia": 221,
+"referencia": "Isaías 39-41",
+"capitulos": 3
+},
+{
+"dia": 222,
+"referencia": "Isaías 42-45",
+"capitulos": 4
+},
+{
+"dia": 223,
+"referencia": "Isaías 46-48",
+"capitulos": 3
+},
+{
+"dia": 224,
+"referencia": "Isaías 49-51",
+"capitulos": 3
+},
+{
+"dia": 225,
+"referencia": "Isaías 52-54",
+"capitulos": 3
+},
+{
+"dia": 226,
+"referencia": "Isaías 55-58",
+"capitulos": 4
+},
+{
+"dia": 227,
+"referencia": "Isaías 59-61",
+"capitulos": 3
+},
+{
+"dia": 228,
+"referencia": "Isaías 62-64",
+"capitulos": 3
+},
+{
+"dia": 229,
+"referencia": "Isaías 65-66; Jeremías 1",
+"capitulos": 3
+},
+{
+"dia": 230,
+"referencia": "Jeremías 2-5",
+"capitulos": 4
+},
+{
+"dia": 231,
+"referencia": "Jeremías 6-8",
+"capitulos": 3
+},
+{
+"dia": 232,
+"referencia": "Jeremías 9-11",
+"capitulos": 3
+},
+{
+"dia": 233,
+"referencia": "Jeremías 12-14",
+"capitulos": 3
+},
+{
+"dia": 234,
+"referencia": "Jeremías 15-18",
+"capitulos": 4
+},
+{
+"dia": 235,
+"referencia": "Jeremías 19-21",
+"capitulos": 3
+},
+{
+"dia": 236,
+"referencia": "Jeremías 22-24",
+"capitulos": 3
+},
+{
+"dia": 237,
+"referencia": "Jeremías 25-27",
+"capitulos": 3
+},
+{
+"dia": 238,
+"referencia": "Jeremías 28-31",
+"capitulos": 4
+},
+{
+"dia": 239,
+"referencia": "Jeremías 32-34",
+"capitulos": 3
+},
+{
+"dia": 240,
+"referencia": "Jeremías 35-37",
+"capitulos": 3
+},
+{
+"dia": 241,
+"referencia": "Jeremías 38-40",
+"capitulos": 3
+},
+{
+"dia": 242,
+"referencia": "Jeremías 41-44",
+"capitulos": 4
+},
+{
+"dia": 243,
+"referencia": "Jeremías 45-47",
+"capitulos": 3
+},
+{
+"dia": 244,
+"referencia": "Jeremías 48-50",
+"capitulos": 3
+},
+{
+"dia": 245,
+"referencia": "Jeremías 51-52; Lamentaciones 1",
+"capitulos": 3
+},
+{
+"dia": 246,
+"referencia": "Lamentaciones 2-5",
+"capitulos": 4
+},
+{
+"dia": 247,
+"referencia": "Ezequiel 1-3",
+"capitulos": 3
+},
+{
+"dia": 248,
+"referencia": "Ezequiel 4-6",
+"capitulos": 3
+},
+{
+"dia": 249,
+"referencia": "Ezequiel 7-9",
+"capitulos": 3
+},
+{
+"dia": 250,
+"referencia": "Ezequiel 10-13",
+"capitulos": 4
+},
+{
+"dia": 251,
+"referencia": "Ezequiel 14-16",
+"capitulos": 3
+},
+{
+"dia": 252,
+"referencia": "Ezequiel 17-19",
+"capitulos": 3
+},
+{
+"dia": 253,
+"referencia": "Ezequiel 20-23",
+"capitulos": 4
+},
+{
+"dia": 254,
+"referencia": "Ezequiel 24-26",
+"capitulos": 3
+},
+{
+"dia": 255,
+"referencia": "Ezequiel 27-29",
+"capitulos": 3
+},
+{
+"dia": 256,
+"referencia": "Ezequiel 30-32",
+"capitulos": 3
+},
+{
+"dia": 257,
+"referencia": "Ezequiel 33-36",
+"capitulos": 4
+},
+{
+"dia": 258,
+"referencia": "Ezequiel 37-39",
+"capitulos": 3
+},
+{
+"dia": 259,
+"referencia": "Ezequiel 40-42",
+"capitulos": 3
+},
+{
+"dia": 260,
+"referencia": "Ezequiel 43-45",
+"capitulos": 3
+},
+{
+"dia": 261,
+"referencia": "Ezequiel 46-48; Daniel 1",
+"capitulos": 4
+},
+{
+"dia": 262,
+"referencia": "Daniel 2-4",
+"capitulos": 3
+},
+{
+"dia": 263,
+"referencia": "Daniel 5-7",
+"capitulos": 3
+},
+{
+"dia": 264,
+"referencia": "Daniel 8-10",
+"capitulos": 3
+},
+{
+"dia": 265,
+"referencia": "Daniel 11-12; Oseas 1-2",
+"capitulos": 4
+},
+{
+"dia": 266,
+"referencia": "Oseas 3-5",
+"capitulos": 3
+},
+{
+"dia": 267,
+"referencia": "Oseas 6-8",
+"capitulos": 3
+},
+{
+"dia": 268,
+"referencia": "Oseas 9-11",
+"capitulos": 3
+},
+{
+"dia": 269,
+"referencia": "Oseas 12-14; Joel 1",
+"capitulos": 4
+},
+{
+"dia": 270,
+"referencia": "Joel 2-3; Amós 1",
+"capitulos": 3
+},
+{
+"dia": 271,
+"referencia": "Amós 2-4",
+"capitulos": 3
+},
+{
+"dia": 272,
+"referencia": "Amós 5-7",
+"capitulos": 3
+},
+{
+"dia": 273,
+"referencia": "Amós 8-9; Abdías 1; Jonás 1",
+"capitulos": 4
+},
+{
+"dia": 274,
+"referencia": "Jonás 2-4",
+"capitulos": 3
+},
+{
+"dia": 275,
+"referencia": "Miqueas 1-3",
+"capitulos": 3
+},
+{
+"dia": 276,
+"referencia": "Miqueas 4-6",
+"capitulos": 3
+},
+{
+"dia": 277,
+"referencia": "Miqueas 7; Nahúm 1-3",
+"capitulos": 4
+},
+{
+"dia": 278,
+"referencia": "Habacuc 1-3",
+"capitulos": 3
+},
+{
+"dia": 279,
+"referencia": "Sofonías 1-3",
+"capitulos": 3
+},
+{
+"dia": 280,
+"referencia": "Hageo 1-2; Zacarías 1",
+"capitulos": 3
+},
+{
+"dia": 281,
+"referencia": "Zacarías 2-5",
+"capitulos": 4
+},
+{
+"dia": 282,
+"referencia": "Zacarías 6-8",
+"capitulos": 3
+},
+{
+"dia": 283,
+"referencia": "Zacarías 9-11",
+"capitulos": 3
+},
+{
+"dia": 284,
+"referencia": "Zacarías 12-14; Malaquías 1",
+"capitulos": 4
+},
+{
+"dia": 285,
+"referencia": "Malaquías 2-4",
+"capitulos": 3
+},
+{
+"dia": 286,
+"referencia": "Mateo 1-3",
+"capitulos": 3
+},
+{
+"dia": 287,
+"referencia": "Mateo 4-6",
+"capitulos": 3
+},
+{
+"dia": 288,
+"referencia": "Mateo 7-10",
+"capitulos": 4
+},
+{
+"dia": 289,
+"referencia": "Mateo 11-13",
+"capitulos": 3
+},
+{
+"dia": 290,
+"referencia": "Mateo 14-16",
+"capitulos": 3
+},
+{
+"dia": 291,
+"referencia": "Mateo 17-19",
+"capitulos": 3
+},
+{
+"dia": 292,
+"referencia": "Mateo 20-23",
+"capitulos": 4
+},
+{
+"dia": 293,
+"referencia": "Mateo 24-26",
+"capitulos": 3
+},
+{
+"dia": 294,
+"referencia": "Mateo 27-28; Marcos 1",
+"capitulos": 3
+},
+{
+"dia": 295,
+"referencia": "Marcos 2-4",
+"capitulos": 3
+},
+{
+"dia": 296,
+"referencia": "Marcos 5-8",
+"capitulos": 4
+},
+{
+"dia": 297,
+"referencia": "Marcos 9-11",
+"capitulos": 3
+},
+{
+"dia": 298,
+"referencia": "Marcos 12-14",
+"capitulos": 3
+},
+{
+"dia": 299,
+"referencia": "Marcos 15-16; Lucas 1",
+"capitulos": 3
+},
+{
+"dia": 300,
+"referencia": "Lucas 2-5",
+"capitulos": 4
+},
+{
+"dia": 301,
+"referencia": "Lucas 6-8",
+"capitulos": 3
+},
+{
+"dia": 302,
+"referencia": "Lucas 9-11",
+"capitulos": 3
+},
+{
+"dia": 303,
+"referencia": "Lucas 12-14",
+"capitulos": 3
+},
+{
+"dia": 304,
+"referencia": "Lucas 15-18",
+"capitulos": 4
+},
+{
+"dia": 305,
+"referencia": "Lucas 19-21",
+"capitulos": 3
+},
+{
+"dia": 306,
+"referencia": "Lucas 22-24",
+"capitulos": 3
+},
+{
+"dia": 307,
+"referencia": "Juan 1-3",
+"capitulos": 3
+},
+{
+"dia": 308,
+"referencia": "Juan 4-7",
+"capitulos": 4
+},
+{
+"dia": 309,
+"referencia": "Juan 8-10",
+"capitulos": 3
+},
+{
+"dia": 310,
+"referencia": "Juan 11-13",
+"capitulos": 3
+},
+{
+"dia": 311,
+"referencia": "Juan 14-16",
+"capitulos": 3
+},
+{
+"dia": 312,
+"referencia": "Juan 17-20",
+"capitulos": 4
+},
+{
+"dia": 313,
+"referencia": "Juan 21; Hechos 1-2",
+"capitulos": 3
+},
+{
+"dia": 314,
+"referencia": "Hechos 3-5",
+"capitulos": 3
+},
+{
+"dia": 315,
+"referencia": "Hechos 6-8",
+"capitulos": 3
+},
+{
+"dia": 316,
+"referencia": "Hechos 9-12",
+"capitulos": 4
+},
+{
+"dia": 317,
+"referencia": "Hechos 13-15",
+"capitulos": 3
+},
+{
+"dia": 318,
+"referencia": "Hechos 16-18",
+"capitulos": 3
+},
+{
+"dia": 319,
+"referencia": "Hechos 19-22",
+"capitulos": 4
+},
+{
+"dia": 320,
+"referencia": "Hechos 23-25",
+"capitulos": 3
+},
+{
+"dia": 321,
+"referencia": "Hechos 26-28",
+"capitulos": 3
+},
+{
+"dia": 322,
+"referencia": "Romanos 1-3",
+"capitulos": 3
+},
+{
+"dia": 323,
+"referencia": "Romanos 4-7",
+"capitulos": 4
+},
+{
+"dia": 324,
+"referencia": "Romanos 8-10",
+"capitulos": 3
+},
+{
+"dia": 325,
+"referencia": "Romanos 11-13",
+"capitulos": 3
+},
+{
+"dia": 326,
+"referencia": "Romanos 14-16",
+"capitulos": 3
+},
+{
+"dia": 327,
+"referencia": "1 Corintios 1-4",
+"capitulos": 4
+},
+{
+"dia": 328,
+"referencia": "1 Corintios 5-7",
+"capitulos": 3
+},
+{
+"dia": 329,
+"referencia": "1 Corintios 8-10",
+"capitulos": 3
+},
+{
+"dia": 330,
+"referencia": "1 Corintios 11-13",
+"capitulos": 3
+},
+{
+"dia": 331,
+"referencia": "1 Corintios 14-16; 2 Corintios 1",
+"capitulos": 4
+},
+{
+"dia": 332,
+"referencia": "2 Corintios 2-4",
+"capitulos": 3
+},
+{
+"dia": 333,
+"referencia": "2 Corintios 5-7",
+"capitulos": 3
+},
+{
+"dia": 334,
+"referencia": "2 Corintios 8-10",
+"capitulos": 3
+},
+{
+"dia": 335,
+"referencia": "2 Corintios 11-13; Gálatas 1",
+"capitulos": 4
+},
+{
+"dia": 336,
+"referencia": "Gálatas 2-4",
+"capitulos": 3
+},
+{
+"dia": 337,
+"referencia": "Gálatas 5-6; Efesios 1",
+"capitulos": 3
+},
+{
+"dia": 338,
+"referencia": "Efesios 2-4",
+"capitulos": 3
+},
+{
+"dia": 339,
+"referencia": "Efesios 5-6; Filipenses 1-2",
+"capitulos": 4
+},
+{
+"dia": 340,
+"referencia": "Filipenses 3-4; Colosenses 1",
+"capitulos": 3
+},
+{
+"dia": 341,
+"referencia": "Colosenses 2-4",
+"capitulos": 3
+},
+{
+"dia": 342,
+"referencia": "1 Tesalonicenses 1-3",
+"capitulos": 3
+},
+{
+"dia": 343,
+"referencia": "1 Tesalonicenses 4-5; 2 Tesalonicenses 1-2",
+"capitulos": 4
+},
+{
+"dia": 344,
+"referencia": "2 Tesalonicenses 3; 1 Timoteo 1-2",
+"capitulos": 3
+},
+{
+"dia": 345,
+"referencia": "1 Timoteo 3-5",
+"capitulos": 3
+},
+{
+"dia": 346,
+"referencia": "1 Timoteo 6; 2 Timoteo 1-2",
+"capitulos": 3
+},
+{
+"dia": 347,
+"referencia": "2 Timoteo 3-4; Tito 1-2",
+"capitulos": 4
+},
+{
+"dia": 348,
+"referencia": "Tito 3; Filemón 1; Hebreos 1",
+"capitulos": 3
+},
+{
+"dia": 349,
+"referencia": "Hebreos 2-4",
+"capitulos": 3
+},
+{
+"dia": 350,
+"referencia": "Hebreos 5-8",
+"capitulos": 4
+},
+{
+"dia": 351,
+"referencia": "Hebreos 9-11",
+"capitulos": 3
+},
+{
+"dia": 352,
+"referencia": "Hebreos 12-13; Santiago 1",
+"capitulos": 3
+},
+{
+"dia": 353,
+"referencia": "Santiago 2-4",
+"capitulos": 3
+},
+{
+"dia": 354,
+"referencia": "Santiago 5; 1 Pedro 1-3",
+"capitulos": 4
+},
+{
+"dia": 355,
+"referencia": "1 Pedro 4-5; 2 Pedro 1",
+"capitulos": 3
+},
+{
+"dia": 356,
+"referencia": "2 Pedro 2-3; 1 Juan 1",
+"capitulos": 3
+},
+{
+"dia": 357,
+"referencia": "1 Juan 2-4",
+"capitulos": 3
+},
+{
+"dia": 358,
+"referencia": "1 Juan 5; 2 Juan 1; 3 Juan 1; Judas 1",
+"capitulos": 4
+},
+{
+"dia": 359,
+"referencia": "Apocalipsis 1-3",
+"capitulos": 3
+},
+{
+"dia": 360,
+"referencia": "Apocalipsis 4-6",
+"capitulos": 3
+},
+{
+"dia": 361,
+"referencia": "Apocalipsis 7-9",
+"capitulos": 3
+},
+{
+"dia": 362,
+"referencia": "Apocalipsis 10-13",
+"capitulos": 4
+},
+{
+"dia": 363,
+"referencia": "Apocalipsis 14-16",
+"capitulos": 3
+},
+{
+"dia": 364,
+"referencia": "Apocalipsis 17-19",
+"capitulos": 3
+},
+{
+"dia": 365,
+"referencia": "Apocalipsis 20-22",
+"capitulos": 3
+}
+]
