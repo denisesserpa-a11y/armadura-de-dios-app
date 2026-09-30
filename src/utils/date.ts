@@ -30,3 +30,9 @@ export function computeStreak(completedDays: string[]): number {
   }
   return streak
 }
+
+// Número de dias desde uma data fixa (calendário local). Serve para escolher o devocional
+// do dia: muda à meia-noite e é igual para todos os usuários no mesmo dia.
+export function dayNumber(d: Date = new Date()): number {
+  return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 86400000)
+}

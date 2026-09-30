@@ -29,12 +29,10 @@ Cada vez que subas un cambio a GitHub, Netlify vuelve a publicar automáticament
 Todo el contenido que cambia con frecuencia está en `src/data/`:
 
 - **`config.ts`** — el código de acceso que entregas a quien compra en Hotmart, y el nombre/tagline de la app.
-- **`videos.ts`** — agrega tus videos de YouTube. Solo necesitas el ID que aparece en la URL después de `v=`
-  (ej: `youtube.com/watch?v=ABC123` → `youtubeId: 'ABC123'`). El campo `relatedChapterId` es opcional: si
-  coincide con el `id` de un capítulo en `chapters.ts`, el video también aparece al final de ese capítulo.
 - **`chapters.ts`** — el texto completo del libro, ya cargado con los 9 capítulos + introducción + conclusión.
 - **`ritual.ts`** — los pasos del ritual diario (Capítulo 9).
-- **`prayer.ts`** — la Oración de Revestimiento Diario y las preguntas de reflexión.
+- **`devotionals.ts`** — los devocionales diarios (30 por ahora). La app muestra uno distinto cada día y, al terminar la lista, vuelve a empezar. Para agregar más, copia un bloque al final de la lista.
+- **`prayer.ts`** — las preguntas de reflexión que aparecen en la pantalla del devocional.
 - **`biblePlan.json`** — el plan de lectura de la Biblia en 365 días (ya generado, no necesitas tocarlo).
 
 ## Sobre el código de acceso
@@ -50,7 +48,7 @@ mantenimiento continuo.
 
 ```
 src/
-  data/       contenido editable (capítulos, ritual, oración, videos, plan bíblico, config)
+  data/       contenido editable (capítulos, ritual, devocionales, plan bíblico, config)
   components/ piezas reutilizables de UI (banner, botones, iconos, checkbox…)
   screens/    las 6 pantallas del menú principal + detalle de capítulo
   hooks/      persistencia en localStorage

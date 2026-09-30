@@ -31,9 +31,12 @@ export interface BibleDay {
   capitulos: number;
 }
 
-export interface VideoItem {
-  id: string;
-  youtubeId: string;
-  title: string;
-  relatedChapterId?: string;
+export interface Devotional {
+  tema: string;
+  titulo: string;
+  versiculo: string;
+  ref: string;
+  reflexion: string;
+  pregunta: string;
+  oracion: string[];
 }
