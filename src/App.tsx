@@ -7,7 +7,6 @@ import { ChapterDetail } from './screens/ChapterDetail'
 import { Ritual } from './screens/Ritual'
 import { BiblePlan } from './screens/BiblePlan'
 import { Devotional } from './screens/Devotional'
-import { Videos } from './screens/Videos'
 import { Progress } from './screens/Progress'
 import { useLocalStorage } from './hooks/useLocalStorage'
 import { chapters } from './data/chapters'
@@ -21,8 +20,9 @@ export type Screen =
   | 'ritual'
   | 'plan'
   | 'devotional'
-  | 'videos'
   | 'progress'
+
+const validScreens: Screen[] = ['home', 'book', 'chapter', 'ritual', 'plan', 'devotional', 'progress']
 
 const allStepIds = ritualBlocks.flatMap((b) => b.steps.map((s) => s.id))
 
@@ -33,6 +33,12 @@ export default function App() {
     'armadura_selected_chapter',
     null
   )
+
+  // se o usuário tinha salvo uma tela que já não existe (ex.: 'videos'), volta para o início
+  useEffect(() => {
+    if (!validScreens.includes(screen)) setScreen('home')
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   const [readIds, setReadIds] = useLocalStorage<Record<string, boolean>>('armadura_read_chapters', {})
 
@@ -141,8 +147,6 @@ export default function App() {
         {screen === 'devotional' && (
           <Devotional onBack={goHome} journalText={journalText} onChangeJournal={setJournalText} />
         )}
-
-        {screen === 'videos' && <Videos onBack={goHome} />}
 
         {screen === 'progress' && (
           <Progress

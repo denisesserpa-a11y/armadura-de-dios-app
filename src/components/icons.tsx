@@ -48,15 +48,6 @@ export function IconCandle({ className }: IconProps) {
   )
 }
 
-export function IconPlay({ className }: IconProps) {
-  return (
-    <svg viewBox="0 0 48 48" fill="none" className={className}>
-      <circle cx="24" cy="24" r="17" stroke="currentColor" strokeWidth="1.6" />
-      <path d="M20 16 L32 24 L20 32 Z" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" />
-    </svg>
-  )
-}
-
 export function IconSeal({ className }: IconProps) {
   return (
     <svg viewBox="0 0 48 48" fill="none" className={className}>

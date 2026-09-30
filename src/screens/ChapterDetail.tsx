@@ -1,7 +1,6 @@
 import { ScreenHeader } from '../components/ScreenHeader'
 import { Checkbox } from '../components/Checkbox'
 import { chapters } from '../data/chapters'
-import { videos } from '../data/videos'
 import type { ContentBlock } from '../types'
 
 function Block({ block }: { block: ContentBlock }) {
@@ -38,7 +37,6 @@ export function ChapterDetail({
 
   const prev = chapters[index - 1]
   const next = chapters[index + 1]
-  const relatedVideo = videos.find((v) => v.relatedChapterId === chapter.id)
   const isRead = !!readIds[chapter.id]
 
   return (
@@ -52,21 +50,6 @@ export function ChapterDetail({
         {chapter.blocks.map((block, i) => (
           <Block key={i} block={block} />
         ))}
-
-        {relatedVideo && (
-          <div className="mt-8">
-            <p className="font-body text-xs uppercase tracking-widest text-bronze-600 mb-2">Video relacionado</p>
-            <div className="aspect-video rounded-lg overflow-hidden border border-bronze-500/25">
-              <iframe
-                className="w-full h-full"
-                src={`https://www.youtube.com/embed/${relatedVideo.youtubeId}`}
-                title={relatedVideo.title}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-          </div>
-        )}
 
         <button
           onClick={() => onToggleRead(chapter.id)}
